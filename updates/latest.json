@@ -1,7 +1,7 @@
 {
- "version": "2.13.3",
+ "version": "2.13.4",
  "date": "2026-11-21",
- "notes": "Rastro de luz testado no Premiere 26: sem desfoque duplicado, reaplicar não acumula efeitos e Desligar funciona.",
+ "notes": "Rastro de luz: o efeito pulsa seguindo a curva do look (Respiro respira, Pulsação bate...). Desligar remove o efeito do clipe.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.13.3.exe"
+ "installer": "FastEdit-Setup-2.13.4.exe"
 }
