@@ -1,4 +1,4 @@
-# Fast Edit 2.13.1
+# Fast Edit 2.13.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.13.1
-Cópia em outro formato agora sai em resolução cheia (ex.: 1080x1920) sem mudar o enquadramento. Legendas animadas removidas. Prévias das Animações mostram um clipe. Sons do Fast Edit disponíveis em Baixar SFX.
+## Novidades da 2.13.2
+Rastro de luz corrigido para o Premiere 26: usa Fast Blur com intensidade certa, não duplica o desfoque e o rastro ficou mais leve (take nítido, só os claros deixam rastro).

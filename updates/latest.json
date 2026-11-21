@@ -1,7 +1,7 @@
 {
- "version": "2.13.1",
+ "version": "2.13.2",
  "date": "2026-11-21",
- "notes": "Cópia em outro formato agora sai em resolução cheia (ex.: 1080x1920) sem mudar o enquadramento. Legendas animadas removidas. Prévias das Animações mostram um clipe. Sons do Fast Edit disponíveis em Baixar SFX.",
+ "notes": "Rastro de luz corrigido para o Premiere 26: usa Fast Blur com intensidade certa, não duplica o desfoque e o rastro ficou mais leve (take nítido, só os claros deixam rastro).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.13.1.exe"
+ "installer": "FastEdit-Setup-2.13.2.exe"
 }
