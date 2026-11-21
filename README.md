@@ -1,4 +1,4 @@
-# Fast Edit 2.13.2
+# Fast Edit 2.13.3
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.13.2
-Rastro de luz corrigido para o Premiere 26: usa Fast Blur com intensidade certa, não duplica o desfoque e o rastro ficou mais leve (take nítido, só os claros deixam rastro).
+## Novidades da 2.13.3
+Rastro de luz testado no Premiere 26: sem desfoque duplicado, reaplicar não acumula efeitos e Desligar funciona.

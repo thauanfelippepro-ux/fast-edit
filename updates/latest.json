@@ -1,7 +1,7 @@
 {
- "version": "2.13.2",
+ "version": "2.13.3",
  "date": "2026-11-21",
- "notes": "Rastro de luz corrigido para o Premiere 26: usa Fast Blur com intensidade certa, não duplica o desfoque e o rastro ficou mais leve (take nítido, só os claros deixam rastro).",
+ "notes": "Rastro de luz testado no Premiere 26: sem desfoque duplicado, reaplicar não acumula efeitos e Desligar funciona.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.13.2.exe"
+ "installer": "FastEdit-Setup-2.13.3.exe"
 }
