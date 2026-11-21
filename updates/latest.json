@@ -1,7 +1,7 @@
 {
- "version": "2.10.0",
+ "version": "2.11.0",
  "date": "2026-11-21",
- "notes": "Novo: Rastro de luz (Animar). Rastros de luz que pulsam sobre o clipe, com 12 looks, intensidade Sutil/Média/Forte e favoritos.",
+ "notes": "Nova aba After (after movie e same day): Rastro de luz, Efeito na batida, Flash no corte e Câmera lenta.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.10.0.exe"
+ "installer": "FastEdit-Setup-2.11.0.exe"
 }
