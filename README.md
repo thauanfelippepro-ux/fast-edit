@@ -1,4 +1,4 @@
-# Fast Edit 2.13.4
+# Fast Edit 2.14.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.13.4
-Rastro de luz: o efeito pulsa seguindo a curva do look (Respiro respira, Pulsação bate...). Desligar remove o efeito do clipe.
+## Novidades da 2.14.0
+Aba After: Efeitos do After (61 transições, movimentos e looks prontos em 1 clique) e Transição em grid com clarão.

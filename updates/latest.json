@@ -1,7 +1,7 @@
 {
- "version": "2.13.4",
+ "version": "2.14.0",
  "date": "2026-11-21",
- "notes": "Rastro de luz: o efeito pulsa seguindo a curva do look (Respiro respira, Pulsação bate...). Desligar remove o efeito do clipe.",
+ "notes": "Aba After: Efeitos do After (61 transições, movimentos e looks prontos em 1 clique) e Transição em grid com clarão.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.13.4.exe"
+ "installer": "FastEdit-Setup-2.14.0.exe"
 }
