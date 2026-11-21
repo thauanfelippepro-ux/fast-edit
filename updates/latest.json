@@ -1,7 +1,7 @@
 {
- "version": "2.11.0",
+ "version": "2.12.0",
  "date": "2026-11-21",
- "notes": "Nova aba After (after movie e same day): Rastro de luz, Efeito na batida, Flash no corte e Câmera lenta.",
+ "notes": "Curvas de animação refeitas: abas Gráfico e Presets, tipos Back/Bounce/Cubic/Elastic/Expo com parâmetros, curva personalizada com pontos, 52 presets e favoritos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.11.0.exe"
+ "installer": "FastEdit-Setup-2.12.0.exe"
 }
