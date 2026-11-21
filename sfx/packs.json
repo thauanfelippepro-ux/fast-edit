@@ -1,1 +1,44 @@
-{"packs": []}
+{
+ "packs": [
+  {
+   "id": "wys",
+   "name": "WYS SFX",
+   "count": 244,
+   "bytes": 38183586,
+   "parts": [
+    "https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/sfx/wys/part0.zip"
+   ],
+   "partSizes": [
+    38183586
+   ]
+  },
+  {
+   "id": "rashid",
+   "name": "Rashid Alheidy SFX",
+   "count": 72,
+   "bytes": 179229136,
+   "parts": [
+    "https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/sfx/rashid/part0.zip",
+    "https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/sfx/rashid/part1.zip",
+    "https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/sfx/rashid/part2.zip"
+   ],
+   "partSizes": [
+    54012006,
+    71923427,
+    53293703
+   ]
+  },
+  {
+   "id": "extras",
+   "name": "Fast Edit Extras",
+   "count": 41,
+   "bytes": 26045498,
+   "parts": [
+    "https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/sfx/extras/part0.zip"
+   ],
+   "partSizes": [
+    26045498
+   ]
+  }
+ ]
+}
