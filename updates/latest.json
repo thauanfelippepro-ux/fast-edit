@@ -1,7 +1,7 @@
 {
- "version": "2.9.1",
+ "version": "2.10.0",
  "date": "2026-11-21",
- "notes": "Stack cria a camada de ajuste sozinho em qualquer projeto (não precisa mais criar antes).\nAtalhos do Início: Camada de ajuste, Matte, Colar imagem, Copiar frame e Iniciar projeto.\nInício e Ajustes mais simples.",
+ "notes": "Novo: Rastro de luz (Animar). Rastros de luz que pulsam sobre o clipe, com 12 looks, intensidade Sutil/Média/Forte e favoritos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.9.1.exe"
+ "installer": "FastEdit-Setup-2.10.0.exe"
 }

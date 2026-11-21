@@ -1,4 +1,4 @@
-# Fast Edit 2.9.1
+# Fast Edit 2.10.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,7 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.9.1
-Stack cria a camada de ajuste sozinho em qualquer projeto (não precisa mais criar antes).
-Atalhos do Início: Camada de ajuste, Matte, Colar imagem, Copiar frame e Iniciar projeto.
-Início e Ajustes mais simples.
+## Novidades da 2.10.0
+Novo: Rastro de luz (Animar). Rastros de luz que pulsam sobre o clipe, com 12 looks, intensidade Sutil/Média/Forte e favoritos.
