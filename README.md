@@ -1,4 +1,4 @@
-# Fast Edit 2.12.0
+# Fast Edit 2.12.1
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.12.0
-Curvas de animação refeitas: abas Gráfico e Presets, tipos Back/Bounce/Cubic/Elastic/Expo com parâmetros, curva personalizada com pontos, 52 presets e favoritos.
+## Novidades da 2.12.1
+Sons: lista mais limpa (sem nome do pacote), botão para escolher a pasta na primeira vez, prévia funciona com nomes com acentos e símbolos, e HD desconectado não deixa sons quebrados na lista.

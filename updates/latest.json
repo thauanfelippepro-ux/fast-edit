@@ -1,7 +1,7 @@
 {
- "version": "2.12.0",
+ "version": "2.12.1",
  "date": "2026-11-21",
- "notes": "Curvas de animação refeitas: abas Gráfico e Presets, tipos Back/Bounce/Cubic/Elastic/Expo com parâmetros, curva personalizada com pontos, 52 presets e favoritos.",
+ "notes": "Sons: lista mais limpa (sem nome do pacote), botão para escolher a pasta na primeira vez, prévia funciona com nomes com acentos e símbolos, e HD desconectado não deixa sons quebrados na lista.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.12.0.exe"
+ "installer": "FastEdit-Setup-2.12.1.exe"
 }
