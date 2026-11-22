@@ -10,6 +10,5 @@ Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualiz
 
 ## Novidades da 2.23.0
 Todos os efeitos prontos revisados: os Destruction voltaram a distorcer de verdade (o Premiere 2026 ignorava o Wave Warp na qualidade "Alta").
-Prévias novas dos efeitos, gravadas do Premiere com o efeito em movimento.
 Speed ramp: agora dá para desenhar a rampa do seu jeito arrastando os pontos no gráfico.
 Atualizações aparecem sempre na Home, assim que saem.
