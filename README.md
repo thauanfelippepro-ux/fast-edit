@@ -1,4 +1,4 @@
-# Fast Edit 2.23.0
+# Fast Edit 2.23.1
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -6,9 +6,17 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 - **Windows:** [FastEdit-Setup-Windows.exe](https://github.com/thauanfelippepro-ux/fast-edit/raw/main/download/FastEdit-Setup-Windows.exe)
 - **Mac:** [Fast-Edit-Mac.zip](https://github.com/thauanfelippepro-ux/fast-edit/raw/main/download/Fast-Edit-Mac.zip)
 
+### Se aparecer aviso de segurança
+**Mac** ("A Apple não pôde verificar..."): abra o **Terminal** e cole:
+```
+curl -fsSL https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install-mac.sh | bash
+```
+**Windows** ("O Windows protegeu o computador"): clique em **Mais informações > Executar assim mesmo**, ou abra o **PowerShell** e cole:
+```
+irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install-win.ps1 | iex
+```
+
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.23.0
-Todos os efeitos prontos revisados: os Destruction voltaram a distorcer de verdade (o Premiere 2026 ignorava o Wave Warp na qualidade "Alta").
-Speed ramp: agora dá para desenhar a rampa do seu jeito arrastando os pontos no gráfico.
-Atualizações aparecem sempre na Home, assim que saem.
+## Novidades da 2.23.1
+Instalação mais fácil quando o Mac ou o Windows mostram aviso de segurança: agora dá para instalar com uma linha no Terminal (Mac) ou no PowerShell (Windows).
