@@ -1,7 +1,7 @@
 {
- "version": "2.23.2",
+ "version": "2.23.3",
  "date": "2026-11-22",
- "notes": "Aviso de atualização mais limpo na Home.",
+ "notes": "Ajustes mais limpos: saíram as informações técnicas do Sobre.\nAviso de atualização mais limpo na Home.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.23.2.exe"
+ "installer": "FastEdit-Setup-2.23.3.exe"
 }
