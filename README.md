@@ -1,4 +1,4 @@
-# Fast Edit 2.20.0
+# Fast Edit 2.21.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,7 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.20.0
-Sons: cada efeito sonoro mostra a forma de onda. Toque na onda para ouvir a partir daquele ponto.
+## Novidades da 2.21.0
+Transição prisma (aba After): refração líquida, rastro e clarão entre dois takes, em 5 estilos com prévia.
+Ações rápidas só com ferramentas do plugin.
+"Flash no corte" saiu da aba After (o flash continua em Efeitos prontos).

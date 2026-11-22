@@ -1,7 +1,7 @@
 {
- "version": "2.20.0",
+ "version": "2.21.0",
  "date": "2026-11-22",
- "notes": "Sons: cada efeito sonoro mostra a forma de onda. Toque na onda para ouvir a partir daquele ponto.",
+ "notes": "Transição prisma (aba After): refração líquida, rastro e clarão entre dois takes, em 5 estilos com prévia.\nAções rápidas só com ferramentas do plugin.\n\"Flash no corte\" saiu da aba After (o flash continua em Efeitos prontos).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.20.0.exe"
+ "installer": "FastEdit-Setup-2.21.0.exe"
 }
