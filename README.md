@@ -1,4 +1,4 @@
-# Fast Edit 2.18.0
+# Fast Edit 2.18.1
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,7 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.18.0
-Tema Neon agora é o padrão.
-"Efeitos do After" virou "Efeitos prontos".
-Guia do Reels sem o espaço vazio embaixo: legenda e barra no lugar certo.
+## Novidades da 2.18.1
+Stack: em "Efeito na camada" aparecem todos os efeitos de vídeo do Premiere, com busca pelo nome.

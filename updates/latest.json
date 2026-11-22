@@ -1,7 +1,7 @@
 {
- "version": "2.18.0",
- "date": "2026-11-21",
- "notes": "Tema Neon agora é o padrão.\n\"Efeitos do After\" virou \"Efeitos prontos\".\nGuia do Reels sem o espaço vazio embaixo: legenda e barra no lugar certo.",
+ "version": "2.18.1",
+ "date": "2026-11-22",
+ "notes": "Stack: em \"Efeito na camada\" aparecem todos os efeitos de vídeo do Premiere, com busca pelo nome.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.18.0.exe"
+ "installer": "FastEdit-Setup-2.18.1.exe"
 }
