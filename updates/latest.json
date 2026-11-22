@@ -1,7 +1,7 @@
 {
- "version": "2.14.0",
+ "version": "2.15.0",
  "date": "2026-11-21",
- "notes": "Aba After: Efeitos do After (61 transições, movimentos e looks prontos em 1 clique) e Transição em grid com clarão.",
+ "notes": "Transição em grid refeita como o BC Grid: colunas, filas, padrão, linhas (grossura e cor) e cor de destaque em cada quadrado. Efeitos do After entram como camada de ajuste com o nome do efeito, sem importar todos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.14.0.exe"
+ "installer": "FastEdit-Setup-2.15.0.exe"
 }

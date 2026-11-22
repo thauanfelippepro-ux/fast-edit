@@ -1,4 +1,4 @@
-# Fast Edit 2.14.0
+# Fast Edit 2.15.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.14.0
-Aba After: Efeitos do After (61 transições, movimentos e looks prontos em 1 clique) e Transição em grid com clarão.
+## Novidades da 2.15.0
+Transição em grid refeita como o BC Grid: colunas, filas, padrão, linhas (grossura e cor) e cor de destaque em cada quadrado. Efeitos do After entram como camada de ajuste com o nome do efeito, sem importar todos.
