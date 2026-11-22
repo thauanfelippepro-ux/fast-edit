@@ -1,7 +1,7 @@
 {
- "version": "2.17.0",
+ "version": "2.18.0",
  "date": "2026-11-21",
- "notes": "Match cut (aba After): selecione os takes, toque em Ler takes e o plugin acha o assunto de cada um, alinha todos no mesmo ponto e mostra a prévia animada antes de montar. Ritmo igual, acelerando, freando ou nos marcadores.\nCopiar frame voltou a funcionar no Windows.",
+ "notes": "Tema Neon agora é o padrão.\n\"Efeitos do After\" virou \"Efeitos prontos\".\nGuia do Reels sem o espaço vazio embaixo: legenda e barra no lugar certo.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.17.0.exe"
+ "installer": "FastEdit-Setup-2.18.0.exe"
 }

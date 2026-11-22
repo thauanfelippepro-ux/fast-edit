@@ -1,4 +1,4 @@
-# Fast Edit 2.17.0
+# Fast Edit 2.18.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,6 +8,7 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.17.0
-Match cut (aba After): selecione os takes, toque em Ler takes e o plugin acha o assunto de cada um, alinha todos no mesmo ponto e mostra a prévia animada antes de montar. Ritmo igual, acelerando, freando ou nos marcadores.
-Copiar frame voltou a funcionar no Windows.
+## Novidades da 2.18.0
+Tema Neon agora é o padrão.
+"Efeitos do After" virou "Efeitos prontos".
+Guia do Reels sem o espaço vazio embaixo: legenda e barra no lugar certo.
