@@ -1,7 +1,7 @@
 {
- "version": "2.15.0",
+ "version": "2.15.1",
  "date": "2026-11-21",
- "notes": "Transição em grid refeita como o BC Grid: colunas, filas, padrão, linhas (grossura e cor) e cor de destaque em cada quadrado. Efeitos do After entram como camada de ajuste com o nome do efeito, sem importar todos.",
+ "notes": "Transição em grid: a prévia agora mostra o padrão escolhido (para o centro, do centro, esquerda, cima, diagonal).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.15.0.exe"
+ "installer": "FastEdit-Setup-2.15.1.exe"
 }
