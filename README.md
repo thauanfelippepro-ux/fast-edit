@@ -1,4 +1,4 @@
-# Fast Edit 2.23.3
+# Fast Edit 2.24.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,6 +19,8 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.23.3
-Ajustes mais limpos: saíram as informações técnicas do Sobre.
-Aviso de atualização mais limpo na Home.
+## Novidades da 2.24.0
+Novo no After: Zoom nos takes — camada de ajuste com zoom em cada take (10%, 30%, 50%…), alternado, in/out, pulso, punch e deslocamento.
+Speed ramp: escolha entre curvas e retas, e a bolinha agora anda na velocidade real da rampa.
+Aba After em quadradinhos, como nas ações rápidas.
+Atualizações mais seguras quando saem versões seguidas.
