@@ -1,4 +1,4 @@
-# Fast Edit 2.19.0
+# Fast Edit 2.20.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,6 +8,5 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.19.0
-Aviso de atualização na Home com o que mudou e o botão Atualizar agora.
-O painel procura atualização ao abrir, ao voltar para a Home e a cada 20 minutos.
+## Novidades da 2.20.0
+Sons: cada efeito sonoro mostra a forma de onda. Toque na onda para ouvir a partir daquele ponto.

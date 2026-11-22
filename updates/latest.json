@@ -1,7 +1,7 @@
 {
- "version": "2.19.0",
+ "version": "2.20.0",
  "date": "2026-11-22",
- "notes": "Aviso de atualização na Home com o que mudou e o botão Atualizar agora.\nO painel procura atualização ao abrir, ao voltar para a Home e a cada 20 minutos.",
+ "notes": "Sons: cada efeito sonoro mostra a forma de onda. Toque na onda para ouvir a partir daquele ponto.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.19.0.exe"
+ "installer": "FastEdit-Setup-2.20.0.exe"
 }
