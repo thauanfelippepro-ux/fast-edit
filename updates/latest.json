@@ -1,7 +1,7 @@
 {
- "version": "2.15.1",
+ "version": "2.16.0",
  "date": "2026-11-21",
- "notes": "Transição em grid: a prévia agora mostra o padrão escolhido (para o centro, do centro, esquerda, cima, diagonal).",
+ "notes": "Início com Ações rápidas: atalhos que já executam a função (camada de ajuste, marcador, rastro, grid, flash…) e aba com seus efeitos favoritos.\nPrévias animadas: cada efeito do After e cada estilo do Rastro de luz mostram como fica, com um take real.\nEfeitos em sequências verticais ou de outro tamanho: a camada de ajuste agora ocupa o quadro inteiro.\n55 efeitos do After (6 antigos que pediam plugins obsoletos foram retirados).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.15.1.exe"
+ "installer": "FastEdit-Setup-2.16.0.exe"
 }

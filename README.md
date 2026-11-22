@@ -1,4 +1,4 @@
-# Fast Edit 2.15.1
+# Fast Edit 2.16.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,8 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.15.1
-Transição em grid: a prévia agora mostra o padrão escolhido (para o centro, do centro, esquerda, cima, diagonal).
+## Novidades da 2.16.0
+Início com Ações rápidas: atalhos que já executam a função (camada de ajuste, marcador, rastro, grid, flash…) e aba com seus efeitos favoritos.
+Prévias animadas: cada efeito do After e cada estilo do Rastro de luz mostram como fica, com um take real.
+Efeitos em sequências verticais ou de outro tamanho: a camada de ajuste agora ocupa o quadro inteiro.
+55 efeitos do After (6 antigos que pediam plugins obsoletos foram retirados).
