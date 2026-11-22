@@ -1,4 +1,4 @@
-# Fast Edit 2.18.1
+# Fast Edit 2.19.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,5 +8,6 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.18.1
-Stack: em "Efeito na camada" aparecem todos os efeitos de vídeo do Premiere, com busca pelo nome.
+## Novidades da 2.19.0
+Aviso de atualização na Home com o que mudou e o botão Atualizar agora.
+O painel procura atualização ao abrir, ao voltar para a Home e a cada 20 minutos.

@@ -1,7 +1,7 @@
 {
- "version": "2.18.1",
+ "version": "2.19.0",
  "date": "2026-11-22",
- "notes": "Stack: em \"Efeito na camada\" aparecem todos os efeitos de vídeo do Premiere, com busca pelo nome.",
+ "notes": "Aviso de atualização na Home com o que mudou e o botão Atualizar agora.\nO painel procura atualização ao abrir, ao voltar para a Home e a cada 20 minutos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.18.1.exe"
+ "installer": "FastEdit-Setup-2.19.0.exe"
 }
