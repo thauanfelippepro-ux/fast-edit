@@ -1,4 +1,4 @@
-# Fast Edit 2.22.0
+# Fast Edit 2.23.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,7 +8,8 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.22.0
-Speed ramp (aba After): acelera e desacelera o take em um toque, com 5 rampas prontas.
-Ações rápidas mostram um popup explicando o que cada uma faz.
-Sons que não abrem somem da lista sozinhos.
+## Novidades da 2.23.0
+Todos os efeitos prontos revisados: os Destruction voltaram a distorcer de verdade (o Premiere 2026 ignorava o Wave Warp na qualidade "Alta").
+Prévias novas dos efeitos, gravadas do Premiere com o efeito em movimento.
+Speed ramp: agora dá para desenhar a rampa do seu jeito arrastando os pontos no gráfico.
+Atualizações aparecem sempre na Home, assim que saem.

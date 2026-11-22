@@ -1,7 +1,7 @@
 {
- "version": "2.22.0",
+ "version": "2.23.0",
  "date": "2026-11-22",
- "notes": "Speed ramp (aba After): acelera e desacelera o take em um toque, com 5 rampas prontas.\nAções rápidas mostram um popup explicando o que cada uma faz.\nSons que não abrem somem da lista sozinhos.",
+ "notes": "Todos os efeitos prontos revisados: os Destruction voltaram a distorcer de verdade (o Premiere 2026 ignorava o Wave Warp na qualidade \"Alta\").\nPrévias novas dos efeitos, gravadas do Premiere com o efeito em movimento.\nSpeed ramp: agora dá para desenhar a rampa do seu jeito arrastando os pontos no gráfico.\nAtualizações aparecem sempre na Home, assim que saem.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.22.0.exe"
+ "installer": "FastEdit-Setup-2.23.0.exe"
 }
