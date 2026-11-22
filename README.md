@@ -1,4 +1,4 @@
-# Fast Edit 2.23.1
+# Fast Edit 2.23.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.23.1
-Instalação mais fácil quando o Mac ou o Windows mostram aviso de segurança: agora dá para instalar com uma linha no Terminal (Mac) ou no PowerShell (Windows).
+## Novidades da 2.23.2
+Aviso de atualização mais limpo na Home.

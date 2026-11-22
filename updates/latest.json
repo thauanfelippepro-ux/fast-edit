@@ -1,7 +1,7 @@
 {
- "version": "2.23.1",
+ "version": "2.23.2",
  "date": "2026-11-22",
- "notes": "Instalação mais fácil quando o Mac ou o Windows mostram aviso de segurança: agora dá para instalar com uma linha no Terminal (Mac) ou no PowerShell (Windows).",
+ "notes": "Aviso de atualização mais limpo na Home.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.23.1.exe"
+ "installer": "FastEdit-Setup-2.23.2.exe"
 }
