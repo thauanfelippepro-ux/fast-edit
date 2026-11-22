@@ -1,7 +1,7 @@
 {
- "version": "2.21.0",
+ "version": "2.22.0",
  "date": "2026-11-22",
- "notes": "Transição prisma (aba After): refração líquida, rastro e clarão entre dois takes, em 5 estilos com prévia.\nAções rápidas só com ferramentas do plugin.\n\"Flash no corte\" saiu da aba After (o flash continua em Efeitos prontos).",
+ "notes": "Speed ramp (aba After): acelera e desacelera o take em um toque, com 5 rampas prontas.\nAções rápidas mostram um popup explicando o que cada uma faz.\nSons que não abrem somem da lista sozinhos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.21.0.exe"
+ "installer": "FastEdit-Setup-2.22.0.exe"
 }

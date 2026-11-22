@@ -1,4 +1,4 @@
-# Fast Edit 2.21.0
+# Fast Edit 2.22.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -8,7 +8,7 @@ Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.21.0
-Transição prisma (aba After): refração líquida, rastro e clarão entre dois takes, em 5 estilos com prévia.
-Ações rápidas só com ferramentas do plugin.
-"Flash no corte" saiu da aba After (o flash continua em Efeitos prontos).
+## Novidades da 2.22.0
+Speed ramp (aba After): acelera e desacelera o take em um toque, com 5 rampas prontas.
+Ações rápidas mostram um popup explicando o que cada uma faz.
+Sons que não abrem somem da lista sozinhos.
