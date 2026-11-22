@@ -1,7 +1,7 @@
 {
- "version": "2.24.0",
+ "version": "2.24.1",
  "date": "2026-11-22",
- "notes": "Novo no After: Zoom nos takes — camada de ajuste com zoom em cada take (10%, 30%, 50%…), alternado, in/out, pulso, punch e deslocamento.\nSpeed ramp: escolha entre curvas e retas, e a bolinha agora anda na velocidade real da rampa.\nAba After em quadradinhos, como nas ações rápidas.\nAtualizações mais seguras quando saem versões seguidas.",
+ "notes": "Zoom nos takes: as camadas de zoom in e zoom out saem com as mesmas cores das suas camadas de ajuste.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.24.0.exe"
+ "installer": "FastEdit-Setup-2.24.1.exe"
 }
