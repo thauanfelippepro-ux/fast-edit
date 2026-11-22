@@ -1,7 +1,7 @@
 {
- "version": "2.16.0",
+ "version": "2.17.0",
  "date": "2026-11-21",
- "notes": "Início com Ações rápidas: atalhos que já executam a função (camada de ajuste, marcador, rastro, grid, flash…) e aba com seus efeitos favoritos.\nPrévias animadas: cada efeito do After e cada estilo do Rastro de luz mostram como fica, com um take real.\nEfeitos em sequências verticais ou de outro tamanho: a camada de ajuste agora ocupa o quadro inteiro.\n55 efeitos do After (6 antigos que pediam plugins obsoletos foram retirados).",
+ "notes": "Match cut (aba After): selecione os takes, toque em Ler takes e o plugin acha o assunto de cada um, alinha todos no mesmo ponto e mostra a prévia animada antes de montar. Ritmo igual, acelerando, freando ou nos marcadores.\nCopiar frame voltou a funcionar no Windows.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.16.0.exe"
+ "installer": "FastEdit-Setup-2.17.0.exe"
 }
