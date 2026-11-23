@@ -1,7 +1,7 @@
 {
- "version": "2.28.0",
+ "version": "2.28.1",
  "date": "2026-11-23",
- "notes": "Rastro de luz bem mais leve: poucos keyframes que seguem a curva do look (a Aparição tem só 3), e o Modo leve usa 2 cópias e tira o tremido.",
+ "notes": "Pack de sons: barra de progresso grande (porcentagem, MB e parte), download pelo mesmo caminho da lista de pacotes e aviso claro com Tentar de novo se der erro.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.28.0.exe"
+ "installer": "FastEdit-Setup-2.28.1.exe"
 }
