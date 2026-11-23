@@ -1,7 +1,7 @@
 {
- "version": "2.25.0",
+ "version": "2.26.0",
  "date": "2026-11-23",
- "notes": "Tutorial guiado: o painel acende cada parte e explica, abrindo as abas e ferramentas de verdade. Ele aparece uma vez e fica em Ajustes > Tutorial guiado.",
+ "notes": "Nova ferramenta Vidro na aba Aftermovie: lupa, anel, mosaico, bloco, canelado, eco, arrasto, redemoinho e RGB, com prévia ao vivo onde você arrasta o vidro.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.25.0.exe"
+ "installer": "FastEdit-Setup-2.26.0.exe"
 }

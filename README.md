@@ -1,4 +1,4 @@
-# Fast Edit 2.25.0
+# Fast Edit 2.26.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.25.0
-Tutorial guiado: o painel acende cada parte e explica, abrindo as abas e ferramentas de verdade. Ele aparece uma vez e fica em Ajustes > Tutorial guiado.
+## Novidades da 2.26.0
+Nova ferramenta Vidro na aba Aftermovie: lupa, anel, mosaico, bloco, canelado, eco, arrasto, redemoinho e RGB, com prévia ao vivo onde você arrasta o vidro.
