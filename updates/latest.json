@@ -1,7 +1,7 @@
 {
- "version": "2.29.1",
+ "version": "2.29.2",
  "date": "2026-11-23",
- "notes": "Transição prisma: duração agora começa em 5 frames, para cortes mais rápidos.",
+ "notes": "Look Degradê agora é uma sombra só na parte de baixo: transparente do meio pra cima e escurecendo até a base, no tamanho da sequência.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.29.1.exe"
+ "installer": "FastEdit-Setup-2.29.2.exe"
 }

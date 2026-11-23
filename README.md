@@ -1,4 +1,4 @@
-# Fast Edit 2.29.1
+# Fast Edit 2.29.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.29.1
-Transição prisma: duração agora começa em 5 frames, para cortes mais rápidos.
+## Novidades da 2.29.2
+Look Degradê agora é uma sombra só na parte de baixo: transparente do meio pra cima e escurecendo até a base, no tamanho da sequência.
