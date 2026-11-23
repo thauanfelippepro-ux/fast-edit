@@ -1,7 +1,7 @@
 {
- "version": "2.26.2",
+ "version": "2.26.3",
  "date": "2026-11-23",
- "notes": "Correção: as camadas de ajuste, o Zoom nos takes e os efeitos prontos agora abrem também em versões mais antigas do Premiere.",
+ "notes": "Transição em grid funciona também com takes sem sobra (vídeos inteiros colados) e avisa quando não dá.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.26.2.exe"
+ "installer": "FastEdit-Setup-2.26.3.exe"
 }
