@@ -1,7 +1,7 @@
 {
- "version": "2.30.2",
+ "version": "2.30.3",
  "date": "2026-11-23",
- "notes": "Inverter vídeo: corrigido o aviso \"não achei o efeito\" quando o Premiere demorava para mostrar o efeito novo no clipe.",
+ "notes": "Inverter vídeo: procura o efeito em português e inglês, aplica direto no take e, se algo der errado, mostra o motivo certo.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.30.2.exe"
+ "installer": "FastEdit-Setup-2.30.3.exe"
 }
