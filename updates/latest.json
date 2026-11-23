@@ -1,7 +1,7 @@
 {
- "version": "2.24.2",
+ "version": "2.25.0",
  "date": "2026-11-23",
- "notes": "A aba After agora se chama Aftermovie.",
+ "notes": "Tutorial guiado: o painel acende cada parte e explica, abrindo as abas e ferramentas de verdade. Ele aparece uma vez e fica em Ajustes > Tutorial guiado.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.24.2.exe"
+ "installer": "FastEdit-Setup-2.25.0.exe"
 }
