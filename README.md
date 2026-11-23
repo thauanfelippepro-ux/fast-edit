@@ -1,4 +1,4 @@
-# Fast Edit 2.27.9
+# Fast Edit 2.28.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.27.9
-Curvas: novo modo Simples (padrão) que mantém só os 2 keyframes e aplica a suavização Bézier do Premiere.
+## Novidades da 2.28.0
+Rastro de luz bem mais leve: poucos keyframes que seguem a curva do look (a Aparição tem só 3), e o Modo leve usa 2 cópias e tira o tremido.
