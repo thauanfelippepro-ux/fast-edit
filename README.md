@@ -1,4 +1,4 @@
-# Fast Edit 2.30.3
+# Fast Edit 2.30.4
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.30.3
-Inverter vídeo: procura o efeito em português e inglês, aplica direto no take e, se algo der errado, mostra o motivo certo.
+## Novidades da 2.30.4
+Corrigido: camadas de ajuste dos efeitos e zooms do Fast Edit apareciam como mídia offline (principalmente em sequências verticais e em outros PCs). Sons e imagens geradas agora vão para a pasta "Fast Edit Media" do projeto. Novo botão Juntar mídias no projeto nas Configurações.

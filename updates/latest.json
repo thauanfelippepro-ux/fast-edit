@@ -1,7 +1,7 @@
 {
- "version": "2.30.3",
+ "version": "2.30.4",
  "date": "2026-11-23",
- "notes": "Inverter vídeo: procura o efeito em português e inglês, aplica direto no take e, se algo der errado, mostra o motivo certo.",
+ "notes": "Corrigido: camadas de ajuste dos efeitos e zooms do Fast Edit apareciam como mídia offline (principalmente em sequências verticais e em outros PCs). Sons e imagens geradas agora vão para a pasta \"Fast Edit Media\" do projeto. Novo botão Juntar mídias no projeto nas Configurações.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.30.3.exe"
+ "installer": "FastEdit-Setup-2.30.4.exe"
 }
