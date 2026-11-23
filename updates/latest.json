@@ -1,7 +1,7 @@
 {
- "version": "2.27.5",
+ "version": "2.27.6",
  "date": "2026-11-23",
- "notes": "Vidro: a Abertura (f/) agora suaviza as divisões entre as facetas (colmeia, caleidoscópio, icosfera, icosaedro, octaedro) mantendo a imagem nítida dentro de cada uma.",
+ "notes": "Zoom nos takes: cria keyframes de verdade, 100% no início e o zoom escolhido no fim (10% vai para 110%), e já vem animando por padrão.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.5.exe"
+ "installer": "FastEdit-Setup-2.27.6.exe"
 }

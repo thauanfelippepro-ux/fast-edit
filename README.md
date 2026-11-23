@@ -1,4 +1,4 @@
-# Fast Edit 2.27.5
+# Fast Edit 2.27.6
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.27.5
-Vidro: a Abertura (f/) agora suaviza as divisões entre as facetas (colmeia, caleidoscópio, icosfera, icosaedro, octaedro) mantendo a imagem nítida dentro de cada uma.
+## Novidades da 2.27.6
+Zoom nos takes: cria keyframes de verdade, 100% no início e o zoom escolhido no fim (10% vai para 110%), e já vem animando por padrão.
