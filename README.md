@@ -1,4 +1,4 @@
-# Fast Edit 2.26.4
+# Fast Edit 2.27.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.26.4
-Efeitos prontos, camadas de ajuste e Zoom nos takes agora entram no tamanho da sua sequência (vertical, horizontal ou quadrada).
+## Novidades da 2.27.0
+Vidro novo: 14 vidros e prismas (cone, fantasma, ondas, caleidoscópio, colmeia, replicador, gotas…). O resultado é desenhado quadro a quadro e fica igual à prévia.

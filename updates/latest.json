@@ -1,7 +1,7 @@
 {
- "version": "2.26.4",
+ "version": "2.27.0",
  "date": "2026-11-23",
- "notes": "Efeitos prontos, camadas de ajuste e Zoom nos takes agora entram no tamanho da sua sequência (vertical, horizontal ou quadrada).",
+ "notes": "Vidro novo: 14 vidros e prismas (cone, fantasma, ondas, caleidoscópio, colmeia, replicador, gotas…). O resultado é desenhado quadro a quadro e fica igual à prévia.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.26.4.exe"
+ "installer": "FastEdit-Setup-2.27.0.exe"
 }
