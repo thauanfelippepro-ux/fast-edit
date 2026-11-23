@@ -1,4 +1,4 @@
-# Fast Edit 2.29.3
+# Fast Edit 2.29.4
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.29.3
-Limpar timeline: com takes selecionados, Fechar espaços junta os takes um colado no outro (o áudio ligado vai junto), mesmo com camada de ajuste ou música por cima.
+## Novidades da 2.29.4
+Limpar timeline com painel novo: cada ação num cartão com o que ela faz e um botão claro. Com takes selecionados o botão vira "Juntar takes".
