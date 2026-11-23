@@ -1,7 +1,7 @@
 {
- "version": "2.27.8",
+ "version": "2.27.9",
  "date": "2026-11-23",
- "notes": "Curvas: em vez de um keyframe por frame, aplica poucos keyframes com a suavização Bézier do Premiere (opção Mínimo ou Fiel ao gráfico). Vale também para os presets de animação.",
+ "notes": "Curvas: novo modo Simples (padrão) que mantém só os 2 keyframes e aplica a suavização Bézier do Premiere.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.8.exe"
+ "installer": "FastEdit-Setup-2.27.9.exe"
 }
