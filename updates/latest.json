@@ -1,7 +1,7 @@
 {
- "version": "2.29.0",
+ "version": "2.29.1",
  "date": "2026-11-23",
- "notes": "Nova ferramenta Grade de takes (aba Editar): selecione os takes, escolha linhas, colunas, grade ou destaque e o Fast Edit monta a tela dividida no formato da sua sequência (vertical, horizontal, HD, 4K), cobrindo cada quadro e cortando as bordas. Pomodoro aparece no topo de todas as telas.",
+ "notes": "Transição prisma: duração agora começa em 5 frames, para cortes mais rápidos.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.29.0.exe"
+ "installer": "FastEdit-Setup-2.29.1.exe"
 }
