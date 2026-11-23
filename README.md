@@ -1,4 +1,4 @@
-# Fast Edit 2.27.7
+# Fast Edit 2.27.8
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.27.7
-Transição em grid: a cor de destaque funciona também no Premiere em português e o painel salva a cor escolhida em qualquer seletor; se o destaque não entrar, o plugin avisa.
+## Novidades da 2.27.8
+Curvas: em vez de um keyframe por frame, aplica poucos keyframes com a suavização Bézier do Premiere (opção Mínimo ou Fiel ao gráfico). Vale também para os presets de animação.

@@ -1,7 +1,7 @@
 {
- "version": "2.27.7",
+ "version": "2.27.8",
  "date": "2026-11-23",
- "notes": "Transição em grid: a cor de destaque funciona também no Premiere em português e o painel salva a cor escolhida em qualquer seletor; se o destaque não entrar, o plugin avisa.",
+ "notes": "Curvas: em vez de um keyframe por frame, aplica poucos keyframes com a suavização Bézier do Premiere (opção Mínimo ou Fiel ao gráfico). Vale também para os presets de animação.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.7.exe"
+ "installer": "FastEdit-Setup-2.27.8.exe"
 }
