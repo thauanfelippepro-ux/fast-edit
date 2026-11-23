@@ -1,7 +1,7 @@
 {
- "version": "2.29.2",
+ "version": "2.29.3",
  "date": "2026-11-23",
- "notes": "Look Degradê agora é uma sombra só na parte de baixo: transparente do meio pra cima e escurecendo até a base, no tamanho da sequência.",
+ "notes": "Limpar timeline: com takes selecionados, Fechar espaços junta os takes um colado no outro (o áudio ligado vai junto), mesmo com camada de ajuste ou música por cima.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.29.2.exe"
+ "installer": "FastEdit-Setup-2.29.3.exe"
 }
