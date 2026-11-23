@@ -1,7 +1,7 @@
 {
- "version": "2.24.1",
- "date": "2026-11-22",
- "notes": "Zoom nos takes: as camadas de zoom in e zoom out saem com as mesmas cores das suas camadas de ajuste.",
+ "version": "2.24.2",
+ "date": "2026-11-23",
+ "notes": "A aba After agora se chama Aftermovie.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.24.1.exe"
+ "installer": "FastEdit-Setup-2.24.2.exe"
 }

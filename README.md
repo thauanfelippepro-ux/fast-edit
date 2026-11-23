@@ -1,4 +1,4 @@
-# Fast Edit 2.24.1
+# Fast Edit 2.24.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.24.1
-Zoom nos takes: as camadas de zoom in e zoom out saem com as mesmas cores das suas camadas de ajuste.
+## Novidades da 2.24.2
+A aba After agora se chama Aftermovie.
