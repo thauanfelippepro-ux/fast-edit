@@ -1,4 +1,4 @@
-# Fast Edit 2.29.4
+# Fast Edit 2.30.0
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.29.4
-Limpar timeline com painel novo: cada ação num cartão com o que ela faz e um botão claro. Com takes selecionados o botão vira "Juntar takes".
+## Novidades da 2.30.0
+Speed ramp novo: cria pontos de velocidade de verdade (Time Remapping) no take, sem picotar. O take vira um clipe Speed ramp logo acima, editável no Premiere, e o original fica desligado embaixo. Botão Voltar ao original desfaz.
