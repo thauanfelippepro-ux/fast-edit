@@ -1,4 +1,4 @@
-# Fast Edit 2.30.0
+# Fast Edit 2.30.1
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.30.0
-Speed ramp novo: cria pontos de velocidade de verdade (Time Remapping) no take, sem picotar. O take vira um clipe Speed ramp logo acima, editável no Premiere, e o original fica desligado embaixo. Botão Voltar ao original desfaz.
+## Novidades da 2.30.1
+Nova ferramenta Inverter vídeo (aba Editar): espelha o take na horizontal ou vira na vertical com um toque.
