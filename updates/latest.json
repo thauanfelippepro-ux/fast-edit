@@ -1,7 +1,7 @@
 {
- "version": "2.27.4",
+ "version": "2.27.5",
  "date": "2026-11-23",
- "notes": "Funciona no Premiere em português: Transformar, Cortar, Tingir, Deslocamento e os outros efeitos são encontrados em qualquer idioma.",
+ "notes": "Vidro: a Abertura (f/) agora suaviza as divisões entre as facetas (colmeia, caleidoscópio, icosfera, icosaedro, octaedro) mantendo a imagem nítida dentro de cada uma.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.4.exe"
+ "installer": "FastEdit-Setup-2.27.5.exe"
 }
