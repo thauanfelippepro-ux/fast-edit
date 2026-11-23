@@ -1,7 +1,7 @@
 {
- "version": "2.26.1",
+ "version": "2.26.2",
  "date": "2026-11-23",
- "notes": "Vidro: a prévia agora usa o quadro do seu take (botão \"Usar meu take\").",
+ "notes": "Correção: as camadas de ajuste, o Zoom nos takes e os efeitos prontos agora abrem também em versões mais antigas do Premiere.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.26.1.exe"
+ "installer": "FastEdit-Setup-2.26.2.exe"
 }

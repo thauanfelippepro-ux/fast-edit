@@ -1,4 +1,4 @@
-# Fast Edit 2.26.1
+# Fast Edit 2.26.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.26.1
-Vidro: a prévia agora usa o quadro do seu take (botão "Usar meu take").
+## Novidades da 2.26.2
+Correção: as camadas de ajuste, o Zoom nos takes e os efeitos prontos agora abrem também em versões mais antigas do Premiere.
