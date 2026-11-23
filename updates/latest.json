@@ -1,7 +1,7 @@
 {
- "version": "2.28.2",
+ "version": "2.28.3",
  "date": "2026-11-23",
- "notes": "Editar em ícones (como o Aftermovie). Pack de sons em partes menores: o download continua de onde parou e tenta sozinho quando a internet falha.",
+ "notes": "A aba Animar saiu (as Curvas de animação foram para Editar). Pack de sons extrai muito mais rápido.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.28.2.exe"
+ "installer": "FastEdit-Setup-2.28.3.exe"
 }

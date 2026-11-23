@@ -1,4 +1,4 @@
-# Fast Edit 2.28.2
+# Fast Edit 2.28.3
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.28.2
-Editar em ícones (como o Aftermovie). Pack de sons em partes menores: o download continua de onde parou e tenta sozinho quando a internet falha.
+## Novidades da 2.28.3
+A aba Animar saiu (as Curvas de animação foram para Editar). Pack de sons extrai muito mais rápido.
