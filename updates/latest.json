@@ -1,7 +1,7 @@
 {
- "version": "2.28.4",
+ "version": "2.28.5",
  "date": "2026-11-23",
- "notes": "Pack de sons: o download continua mesmo se você trocar de aba e a barra volta de onde está quando você abre Sons de novo.",
+ "notes": "Rastro de luz volta a aparecer forte no Modo leve. Vidro: prévia com imagem de exemplo e miniaturas (não lê mais o seu take ao abrir).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.28.4.exe"
+ "installer": "FastEdit-Setup-2.28.5.exe"
 }
