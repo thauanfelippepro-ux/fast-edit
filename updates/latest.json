@@ -1,7 +1,7 @@
 {
- "version": "2.27.1",
+ "version": "2.27.2",
  "date": "2026-11-23",
- "notes": "Vidro: novos controles de refração (força IOR e inclinação), abertura f/, aberração e realce das luzes.",
+ "notes": "Zoom nos takes volta a animar a escala certinho. Speed ramp agora fica num clipe só na timeline (sem picotar o take).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.1.exe"
+ "installer": "FastEdit-Setup-2.27.2.exe"
 }
