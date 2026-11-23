@@ -1,7 +1,7 @@
 {
- "version": "2.27.2",
+ "version": "2.27.3",
  "date": "2026-11-23",
- "notes": "Zoom nos takes volta a animar a escala certinho. Speed ramp agora fica num clipe só na timeline (sem picotar o take).",
+ "notes": "Vidro e Rastro mais leves: a prévia do vidro gasta bem menos a placa de vídeo, e o Rastro ganhou o Modo leve (reproduz sem travar).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.2.exe"
+ "installer": "FastEdit-Setup-2.27.3.exe"
 }
