@@ -1,4 +1,4 @@
-# Fast Edit 2.28.7
+# Fast Edit 2.28.8
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.28.7
-Ações rápidas mais enxutas: Camada de ajuste, Matte, Colar imagem, Guia de redes, Outro formato e Iniciar projeto. Vidro: novo modo Camada de ajuste (padrão), sem ler o vídeo.
+## Novidades da 2.28.8
+Novo Pomodoro na aba Tempo: blocos de foco e pausas com aviso sonoro, pausando o cronômetro do projeto nas pausas. Vidro em camada de ajuste agora respeita sequências verticais (recortes e deslocamentos giram junto) e sempre usa uma camada de ajuste do tamanho da sequência.
