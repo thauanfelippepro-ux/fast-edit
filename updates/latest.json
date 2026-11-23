@@ -1,7 +1,7 @@
 {
- "version": "2.27.6",
+ "version": "2.27.7",
  "date": "2026-11-23",
- "notes": "Zoom nos takes: cria keyframes de verdade, 100% no início e o zoom escolhido no fim (10% vai para 110%), e já vem animando por padrão.",
+ "notes": "Transição em grid: a cor de destaque funciona também no Premiere em português e o painel salva a cor escolhida em qualquer seletor; se o destaque não entrar, o plugin avisa.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.6.exe"
+ "installer": "FastEdit-Setup-2.27.7.exe"
 }
