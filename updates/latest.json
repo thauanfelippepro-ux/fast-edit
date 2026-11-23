@@ -1,7 +1,7 @@
 {
- "version": "2.26.3",
+ "version": "2.26.4",
  "date": "2026-11-23",
- "notes": "Transição em grid funciona também com takes sem sobra (vídeos inteiros colados) e avisa quando não dá.",
+ "notes": "Efeitos prontos, camadas de ajuste e Zoom nos takes agora entram no tamanho da sua sequência (vertical, horizontal ou quadrada).",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.26.3.exe"
+ "installer": "FastEdit-Setup-2.26.4.exe"
 }

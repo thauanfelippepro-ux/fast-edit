@@ -1,4 +1,4 @@
-# Fast Edit 2.26.3
+# Fast Edit 2.26.4
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.26.3
-Transição em grid funciona também com takes sem sobra (vídeos inteiros colados) e avisa quando não dá.
+## Novidades da 2.26.4
+Efeitos prontos, camadas de ajuste e Zoom nos takes agora entram no tamanho da sua sequência (vertical, horizontal ou quadrada).
