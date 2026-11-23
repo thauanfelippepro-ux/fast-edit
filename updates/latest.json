@@ -1,7 +1,7 @@
 {
- "version": "2.27.0",
+ "version": "2.27.1",
  "date": "2026-11-23",
- "notes": "Vidro novo: 14 vidros e prismas (cone, fantasma, ondas, caleidoscópio, colmeia, replicador, gotas…). O resultado é desenhado quadro a quadro e fica igual à prévia.",
+ "notes": "Vidro: novos controles de refração (força IOR e inclinação), abertura f/, aberração e realce das luzes.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.0.exe"
+ "installer": "FastEdit-Setup-2.27.1.exe"
 }
