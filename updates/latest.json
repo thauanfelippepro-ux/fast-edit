@@ -1,7 +1,7 @@
 {
- "version": "2.27.3",
+ "version": "2.27.4",
  "date": "2026-11-23",
- "notes": "Vidro e Rastro mais leves: a prévia do vidro gasta bem menos a placa de vídeo, e o Rastro ganhou o Modo leve (reproduz sem travar).",
+ "notes": "Funciona no Premiere em português: Transformar, Cortar, Tingir, Deslocamento e os outros efeitos são encontrados em qualquer idioma.",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.27.3.exe"
+ "installer": "FastEdit-Setup-2.27.4.exe"
 }
