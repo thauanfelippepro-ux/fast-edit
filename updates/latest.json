@@ -1,7 +1,7 @@
 {
- "version": "2.26.0",
+ "version": "2.26.1",
  "date": "2026-11-23",
- "notes": "Nova ferramenta Vidro na aba Aftermovie: lupa, anel, mosaico, bloco, canelado, eco, arrasto, redemoinho e RGB, com prévia ao vivo onde você arrasta o vidro.",
+ "notes": "Vidro: a prévia agora usa o quadro do seu take (botão \"Usar meu take\").",
  "package": "fastedit-update.json",
- "installer": "FastEdit-Setup-2.26.0.exe"
+ "installer": "FastEdit-Setup-2.26.1.exe"
 }
