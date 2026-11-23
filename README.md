@@ -1,4 +1,4 @@
-# Fast Edit 2.30.1
+# Fast Edit 2.30.2
 
 Plugin para Adobe Premiere Pro (Windows e Mac) — feito por [@odalluz](https://instagram.com/odalluz).
 
@@ -19,5 +19,5 @@ irm https://raw.githubusercontent.com/thauanfelippepro-ux/fast-edit/main/install
 
 Depois de instalado, o Fast Edit se atualiza sozinho (Ajustes > Procurar atualização).
 
-## Novidades da 2.30.1
-Nova ferramenta Inverter vídeo (aba Editar): espelha o take na horizontal ou vira na vertical com um toque.
+## Novidades da 2.30.2
+Inverter vídeo: corrigido o aviso "não achei o efeito" quando o Premiere demorava para mostrar o efeito novo no clipe.
